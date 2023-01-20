@@ -1,0 +1,31 @@
+.App {
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+  padding: 10px;
+}
+
+.one {padding: 20px;
+  width: 50%;
+  height: 500px;
+  float: left;
+}
+
+.two {
+  padding: 20px;
+  margin-left: 50%;
+  height: 500px;
+  border-left: 1px solid #ccc;
+}
+
+hr {
+  margin: 20px
+}
+
+#account-chain-management {
+  display: flex;
+  justify-content: center;
+}
+#working-tx{
+  padding: 20px;
+}
